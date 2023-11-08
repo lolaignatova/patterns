@@ -1,0 +1,2 @@
+In OOP languages, a constructor is a special method used to initialize a newly created object once memory has been allocated for it.
+In JS, as almost everything is an object, the object constructors make sense.
